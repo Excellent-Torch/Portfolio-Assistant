@@ -10,7 +10,7 @@ class Settings(BaseSettings):
     environment: str = "development"
     
     # Model settings
-    model_name: str = "mixtral-8x7b-32768"
+    model_name: str = "llama-3.1-8b-instant"
     temperature: float = 0.3
     max_tokens: int = 1024
     
@@ -22,9 +22,9 @@ class Settings(BaseSettings):
     documents_path: str = "./data/documents"
     chroma_db_path: str = "./chroma_db"
     
-    # AWS settings (only used in production)
+    # AWS settings (only used in production) IG
     s3_bucket_name: str = ""
-    aws_region: str = "us-east-1"
+    aws_region: str = "eu-north-1"
     
     class Config:
         env_file = ".env"
