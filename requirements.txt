@@ -11,3 +11,6 @@ sentence-transformers
 tiktoken
 mangum
 boto3
+unstructured
+pypdf
+tiktoken

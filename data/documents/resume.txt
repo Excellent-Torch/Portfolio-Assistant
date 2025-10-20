@@ -1,0 +1,37 @@
+JOHN DOE
+Software Engineer | Full Stack Developer
+Email: john@example.com | LinkedIn: linkedin.com/in/johndoe
+
+SUMMARY
+Experienced full-stack developer with 5+ years building scalable web applications.
+Specialized in React, TypeScript, Python, and cloud technologies.
+
+EXPERIENCE
+
+Senior Software Engineer | TechCorp Inc. | 2022 - Present
+- Led development of customer-facing dashboard serving 100K+ users
+- Implemented CI/CD pipeline reducing deployment time by 60%
+- Mentored team of 5 junior developers
+- Technologies: React, TypeScript, Python, FastAPI, AWS
+
+Full Stack Developer | StartupXYZ | 2020 - 2022
+- Built real-time chat application with WebSocket support
+- Designed and implemented RESTful APIs
+- Optimized database queries improving response time by 40%
+- Technologies: Node.js, Express, MongoDB, Redis
+
+EDUCATION
+Bachelor of Science in Computer Science
+State University | 2016 - 2020
+GPA: 3.8/4.0
+
+SKILLS
+Frontend: React, TypeScript, Next.js, Tailwind CSS, HTML5, CSS3
+Backend: Python, FastAPI, Node.js, Express, Django
+Databases: PostgreSQL, MongoDB, Redis
+Cloud: AWS (Lambda, S3, EC2), Docker, Kubernetes
+Tools: Git, CI/CD, Jest, Pytest
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect
+- Google Cloud Professional Developer

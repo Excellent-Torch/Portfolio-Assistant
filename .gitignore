@@ -8,6 +8,7 @@ chroma_db/
 *.log
 .DS_Store
 venv/
+portfolio/
 env/
 .aws-sam/
 *.zip
