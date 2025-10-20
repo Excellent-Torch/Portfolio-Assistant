@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+chroma_db/
+*.log
+.DS_Store
+venv/
+env/
+.aws-sam/
+*.zip
